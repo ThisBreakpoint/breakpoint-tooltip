@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "0.0.0",
+  "description": "A tooltip component built using the platform for performance",
+  "keywords": [
+    "tooltip",
+    "web",
+    "component"
+  ],
+  "license": "MIT",
+  "author": "Jeremiah Hoyet <jeremiah@thisbreakpoint.com>",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "lit": "^3.3.3"
+  }
+}
